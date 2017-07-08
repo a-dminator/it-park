@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ITPark</string>
+    <string name="my_name">123</string>
+    <string name="error">Произошла ошибка!</string>
+</resources>
